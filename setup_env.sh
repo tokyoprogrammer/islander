@@ -15,4 +15,4 @@ sudo pip install -r requirements.txt
 
 sudo pip install pipenv
 pipenv --python 3.6
-pipenv install requests
+pipenv install
